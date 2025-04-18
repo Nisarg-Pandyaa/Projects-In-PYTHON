@@ -1,4 +1,4 @@
-import os
+'''import os
 import pandas as pd
 import matplotlib.pyplot as plt
 from datetime import datetime
@@ -67,5 +67,5 @@ if len(set(habits)) < len(habits):
 # Ask user if they want to see the report
 show = input("Would you like to view your weekly habit report? (yes/no): ").strip().lower()
 if show == "yes":
-    generate_report(filename)
+    generate_report(filename)'''
 
