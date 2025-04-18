@@ -2,7 +2,7 @@
 🔥 Repository Description: <br>
 <br>
 <br>
-🧠 - A collection of Python-based projects designed to solve real-world problems, automate tasks, and explore the power of code — from daily life tools to smart solutions. This repo is my Python lab, where each project reflects creativity, problem-solving, and continuous learning.<br>
+🧠 - A collection of Python-based projects designed by me to solve real-world problems, automate tasks, and explore the power of code — from daily life tools to smart solutions. This repo is my Python lab, where each project reflects my creativity, problem-solving ability, and continuous learning.<br>
 <br>
 <br>
 📁 Projects (Organized by Category)<br>
